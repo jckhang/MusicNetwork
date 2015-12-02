@@ -11,4 +11,6 @@
 ## Roadmap
 - [ ] Collect Musician List
 - [ ] Collect Song List
-- [ ] 
+- [ ] Artist Network
+- [ ] Song Network
+- [ ] Recommendation System
