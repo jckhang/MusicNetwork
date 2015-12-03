@@ -9,8 +9,8 @@
 
 ## Roadmap
 - [X] Collect Top Musician List Using API
-- [ ] Storing the data(Coz the limitation of API permission)
-- [ ] Collect Song List
+- [X] Storing the data(Coz the limitation of API permission)
+- [X] Collect Song List
 - [ ] Artist Network
 - [ ] Song Network
 - [ ] Recommendation System
