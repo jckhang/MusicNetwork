@@ -11,6 +11,7 @@
 - [X] Collect Top Musician List Using API
 - [X] Storing the data(Coz the limitation of API permission)
 - [X] Collect Song List
+- [ ] Build Connection between similar singers
 - [ ] Artist Network
 - [ ] Song Network
 - [ ] Recommendation System
