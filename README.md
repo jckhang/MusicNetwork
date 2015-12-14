@@ -21,7 +21,7 @@ Data Analysis:
 
 ## Analysis
 [Music Similarity Network Analysis]
-(https://docs.google.com/document/d/1d--mv5WlYbx8g7nNRm2XgS8S-fbkc_Ey_PedGAioOtE/edit?ts=566ce93e#)
+(https://docs.google.com/document/d/1hvWprrs5Qq8B1tMEOF10XVfZaiPbgm2nJ49eJ-hjz2s/pub)
 
 ## Results
 ![Musician Network](output/img2.png)
