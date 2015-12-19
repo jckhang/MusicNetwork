@@ -28,6 +28,7 @@ Data Analysis:
 (https://docs.google.com/document/d/1hvWprrs5Qq8B1tMEOF10XVfZaiPbgm2nJ49eJ-hjz2s/pub)
 
 ## Results
+Network Visualization <br />
 ![Musician Network](output/img2.png)
-
+Community Partition <br />
 ![Comunity Partition](output/img1.png)
